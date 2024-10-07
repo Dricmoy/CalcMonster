@@ -1,0 +1,6 @@
+transformers
+datasets
+torch
+PyPDF2
+sentencepiece
+accelerate
